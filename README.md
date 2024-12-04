@@ -1,4 +1,4 @@
-# Gus Ferguson - Personal Website
+# Rakeye - Personal Website
 
 ## Overview
 A modern, responsive personal portfolio website showcasing professional skills, projects, and contact information.
